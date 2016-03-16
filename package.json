@@ -1,0 +1,21 @@
+{
+  "name": "khdoja",
+  "version": "1.0.0",
+  "description": "Khodja.js - simple js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fayzulla Khodja",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-grunticon": "^2.2.2",
+    "grunt-reload": "^0.2.0",
+    "grunt-svgmin": "^3.1.2"
+  }
+}
